@@ -6,7 +6,8 @@ namespace Business.CCS
     {
         public void Log()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Veritabanına loglandı");
         }
     }
+
 }
